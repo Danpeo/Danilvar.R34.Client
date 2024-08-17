@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Danilvar.R34.Client", "Danilvar.R34.Client\Danilvar.R34.Client.fsproj", "{A663FAD8-9C8C-4097-8E7E-BF65D370DBB7}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Danilvar.R34.Console", "Danilvar.R34.Console\Danilvar.R34.Console.fsproj", "{4C1A1019-0AB9-4F53-9E8D-733B4A9CD6CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A663FAD8-9C8C-4097-8E7E-BF65D370DBB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A663FAD8-9C8C-4097-8E7E-BF65D370DBB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A663FAD8-9C8C-4097-8E7E-BF65D370DBB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A663FAD8-9C8C-4097-8E7E-BF65D370DBB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C1A1019-0AB9-4F53-9E8D-733B4A9CD6CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C1A1019-0AB9-4F53-9E8D-733B4A9CD6CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C1A1019-0AB9-4F53-9E8D-733B4A9CD6CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C1A1019-0AB9-4F53-9E8D-733B4A9CD6CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
